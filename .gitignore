@@ -10,6 +10,9 @@
 
 !/bin/report-template/**/dist
 
+# Ignore VS Code folder
+.vscode
+
 # specific files to ignore
 *.log
 .ant-targets-build.xml
